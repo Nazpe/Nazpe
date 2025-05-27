@@ -21,7 +21,10 @@ For now... I'm always looking to expand my skillset :)
 
 ## Education
 
-Adicionar um link para o meu artigo...
+Master's Degree in Data Science 
+Bachelor's Degree in Biotechnology
+
+I also published an article based on my thesis work. [The paper can be found in the proceedings of the conference, here]([https://www.linkedin.com/in/yourusername/](https://link.springer.com/chapter/10.1007/978-3-031-49249-5_3))
 
 Dizer qual foi a minha educação
 <!--
