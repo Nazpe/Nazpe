@@ -21,12 +21,10 @@ For now... I'm always looking to expand my skillset :)
 
 ## Education
 
-Master's Degree in Data Science 
-Bachelor's Degree in Biotechnology
+- Master's Degree in Data Science 
+- Bachelor's Degree in Biotechnology
 
 I also published an article based on my thesis work. [The paper can be found here.](https://link.springer.com/chapter/10.1007/978-3-031-49249-5_3)
-
-Dizer qual foi a minha educação
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
