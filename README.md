@@ -12,12 +12,14 @@ I also have a background in life sciences and chemistry.
 
 ## Technical Skills
 
- - Programming Languages: Python, SQL, R, JavaScript.
- - Libraries: Pandas, Numpy, Scikit-Learn, PyTorch, Pyspark (Apache Spark), Matplotlib, Seaborn, FastAPI.
- - Data Techniques: Data Exploration and Visualization, Statistics, Time Series, Data Mining, Machine Learning, Artificial Intelligence, Deep Learning, Generative AI, Computer Vision, Natural Language Processing (NLP), Big Data.
- - Other Tools: HTML, CSS, GitHub, Docker, LaTex, Overleaf, Jira, Microsoft Office, Jupyter.
+ - **Programming Languages**: Python, SQL, R, JavaScript.
+ - **Libraries**: Pandas, Numpy, Scikit-Learn, PyTorch, Pyspark (Apache Spark), Matplotlib, Seaborn, FastAPI.
+ - **Data Techniques**: Data Exploration and Visualization, Statistics, Time Series, Data Mining, Machine Learning, Artificial Intelligence, Deep Learning, Generative AI, Computer Vision, Natural Language Processing (NLP), Big Data.
+ - **Other Tools**: HTML, CSS, GitHub, Docker, LaTex, Overleaf, Jira, Microsoft Office, Jupyter.
 
 For now... I'm always looking to expand my skillset :)
+
+## Education
 
 Adicionar um link para o meu artigo...
 
