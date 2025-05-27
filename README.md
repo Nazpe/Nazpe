@@ -24,7 +24,7 @@ For now... I'm always looking to expand my skillset :)
 Master's Degree in Data Science 
 Bachelor's Degree in Biotechnology
 
-I also published an article based on my thesis work. [The paper can be found in the proceedings of the conference, here.](https://link.springer.com/chapter/10.1007/978-3-031-49249-5_3)
+I also published an article based on my thesis work. [The paper can be found here.](https://link.springer.com/chapter/10.1007/978-3-031-49249-5_3)
 
 Dizer qual foi a minha educação
 <!--
