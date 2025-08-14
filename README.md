@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...>
 -->
-I'm a AI expert and Data Scientist with experience in artificial intelligence, machine learning, statistical analysis, and data visualization. I enjoy coding and am always looking for new challenges!
+I'm an AI expert and Data Scientist with experience in artificial intelligence, machine learning, statistical analysis, and data visualization. I enjoy coding and am always looking for new challenges!
 I also have a background in life sciences and chemistry.
 
 ## Technical Skills
